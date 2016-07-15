@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0-*",
+    "dependencies": {},
+  "frameworks": {
+    ".NETFramework,Version=v4.6.1": { },
+    "dnx451": { },
+    "dnxcore50": { }
+  },
+  "runtimes": { "win": { } }
+}
